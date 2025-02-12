@@ -1,3 +1,5 @@
+//Synchronous,blocking nature,continuous
+
 //const fs=require('fs');
 //const data=fs.readFileSync("./data.txt");
 //console.log(data.toString());                                string format
